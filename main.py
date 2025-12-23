@@ -32,7 +32,6 @@ def main():
             f":ck11: *부속동 (직원식당) 3층에서 취식이 가능 하오니 많은 이용 바랍니다!*\n"
             f":ck11: *냉난방기기 설정 온도는 여름철에는 23-26℃, 겨울철에는 18-20℃ 유지 바랍니다.*\n\n"
             f":point_right: (Click) *<https://static.wixstatic.com/media/50072f_d7df2e2179f5427688dd4c4501165974~mv2.png|컬리스 라운지 에티켓>*\n"
-            f":point_right: (Click) *<https://static.wixstatic.com/media/50072f_faf85adb30e14da683e3df9e38835f77~mv2.png|컬리스 라운지 이용 수칙>*\n"
             f"\n"
             f"\n"
             f"*문의사항 : 인사총무팀 총무/시설 담당자*\n\n"
